@@ -1,2 +1,4 @@
-# aws-lambda-start-instances-ec2
-Função Lambda que inicia EC2 via CloudWatch Events.
+# Função Lambda que inicia instâncias EC2 via CloudWatch Events.
+
+Função Lambda que inicia Instâncias EC2 via CloudWatch Events.
+
